@@ -1,0 +1,11 @@
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.exe
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.deps.json
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.runtimeconfig.json
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.runtimeconfig.dev.json
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.dll
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\bin\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.pdb
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\obj\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.csprojAssemblyReference.cache
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\obj\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.AssemblyInfoInputs.cache
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\obj\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.AssemblyInfo.cs
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\obj\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.dll
+C:\Users\wa_kta\source\repos\Test3rdPartyEncryptionKey\obj\Debug\netcoreapp3.1\Test3rdPartyEncryptionKey.pdb
